@@ -49,7 +49,7 @@ Add your own domain name and have it point to the running services (try adding a
 
 # Note:
 
-## Hi guys you can view my demo instagram page by following this links
+## Hi guys you can view my demo instagram page by following these links
 
 - Link to the EBS: 
 http://udacity-one-dev.us-west-2.elasticbeanstalk.com
