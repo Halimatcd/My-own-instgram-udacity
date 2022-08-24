@@ -1,0 +1,10 @@
+Hi Instructor
+
+ you can view my demo instagram page by following this links
+Link to the EBS: http://udacity-one-dev.us-west-2.elasticbeanstalk.com
+
+How to use the link: Add '/filteredimage?image_url= (Any image url of your choice but dont put the bracket)" Example below: http://udacity-one-dev.us-west-2.elasticbeanstalk.com/filteredimage?image_url=https://cdn-images.farfetch-contents.com/18/03/82/03/18038203_40967502_300.jpg
+
+Example 2: http://udacity-one-dev.us-west-2.elasticbeanstalk.com/filteredimage?image_url=https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/hbz-street-style-gettyimages-1012872378.jpg
+
+Enjoy !
